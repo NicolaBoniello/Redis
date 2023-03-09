@@ -1,0 +1,8 @@
+co\develhope\redisCache\controllers\UserController.class
+co\develhope\redisCache\RedisCacheApplication.class
+co\develhope\redisCache\services\UserService.class
+co\develhope\redisCache\entities\jpa\UserJpa.class
+co\develhope\redisCache\entities\redis\UserRedis.class
+co\develhope\redisCache\configurations\RedisConfiguration.class
+co\develhope\redisCache\repositories\redis\UserRedisRepository.class
+co\develhope\redisCache\repositories\jpa\UserJpaRepository.class
